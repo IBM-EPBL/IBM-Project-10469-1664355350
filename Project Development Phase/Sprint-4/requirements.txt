@@ -1,0 +1,9 @@
+1.streamlit
+2.matplotlib
+3.numpy
+4.pandas
+5.Pillow
+6.scikit-image
+7.scikit-learn
+8.scipy
+9.seaborn
